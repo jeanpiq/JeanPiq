@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @JeanPqrt
-- 📐 I'm a metrology/instrumentation engineer
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ...
+Hello !
+---
+- 👋 I’m @JeanPqrt
+- 🚀 I'm an engineer
+- 🐍 I use Python
+
+[//]: # "- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jeanpiquart/)"
