@@ -1,6 +1,6 @@
 Hello !
 ---
-- 👋 I’m @JeanPqrt
+- 👋 I’m @JeanPiq
 - 🚀 I'm an engineer
 - 🐍 I use Python
 
